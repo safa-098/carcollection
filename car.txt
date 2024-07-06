@@ -2,3 +2,5 @@ honda
 toyot
 toyota
 opel
+kia
+hyundai
